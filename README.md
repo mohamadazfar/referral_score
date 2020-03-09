@@ -1,0 +1,1 @@
+This project contain script to insert users and the referral probability score into postgresql. The probability score was calculated using a XGBoost in different script. After getting the list of users, the plan is to run referrer campaign and the results will be used to measure the actual machine learning model performance.
